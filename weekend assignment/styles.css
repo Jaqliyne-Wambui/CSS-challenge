@@ -445,6 +445,9 @@ text-decoration: none;
    display: flex;
    align-items: center;
 }
+.textside{
+   color: white;
+}
 .subscriberight{
    height: 8vh;
    background-color: white;
